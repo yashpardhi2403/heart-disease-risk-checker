@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Model & artifacts
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
